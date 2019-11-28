@@ -1,0 +1,6 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+input[type="time"] {border: 1px solid #9af490}
